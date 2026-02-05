@@ -1,5 +1,5 @@
-f = open('file.dat', rb)
-f.close()
+#f = open('file.dat', rb)
+#f.close()
 
 ### Option 1 ###
 from Module4 import module4
